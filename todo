@@ -1,0 +1,8 @@
+- archive working build
+- refactor the code
+- add-in QR-encode stuff, or some other QR-maker
+- implement some PIL facilities to get more advanced image manipulation
+- do some cross-matrix testing
+- expose some basic entrypoints for basic usefulness
+- ensure install script is reliable
+
